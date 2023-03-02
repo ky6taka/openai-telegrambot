@@ -1,0 +1,24 @@
+{
+  "name": "openai-telebot",
+  "version": "1.0.0",
+  "description": "Simple Chat Bot AI For Telegram Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caliphdev/openai-telebot.git"
+  },
+  "author": "caliphdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caliphdev/openai-telebot/issues"
+  },
+  "homepage": "https://github.com/caliphdev/openai-telebot#readme",
+  "dependencies": {
+    "openai": "^3.1.0",
+    "telegraf": "^4.10.0",
+    "moment-timezone": "latest"
+  }
+}
