@@ -1,21 +1,21 @@
 {
-  "name": "openai-telebot",
+  "name": "openai-telegrambot",
   "version": "1.0.0",
-  "description": "Simple Chat Bot AI For Telegram Bot",
+  "description": "Open Ai - Telegram Bot",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caliphdev/openai-telebot.git"
+    "url": "git+https://github.com/nxvall/openai-telegrambot.git"
   },
-  "author": "caliphdev",
+  "author": "EN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/caliphdev/openai-telebot/issues"
+    "url": "https://github.com/nxvall/openai-telegrambot/issues"
   },
-  "homepage": "https://github.com/caliphdev/openai-telebot#readme",
+  "homepage": "https://github.com/nxvall/openai-telegrambot#readme",
   "dependencies": {
     "openai": "^3.1.0",
     "telegraf": "^4.10.0",
